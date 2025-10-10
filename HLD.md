@@ -1,6 +1,7 @@
 
 ### Heavy-Light Decomposition
 Heavy-Light Decomposition (HLD) is a powerful technique used in tree algorithms to efficiently answer queries and perform updates on paths or subtrees of a tree. It is particularly useful in problems involving Lowest Common Ancestor (LCA), path queries, and subtree queries.
+> special character : perform updates on paths or subtrees
 
 ---
 
