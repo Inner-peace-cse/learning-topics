@@ -1,4 +1,3 @@
-<assistant>
 ### Binary Lifting: Detailed Explanation and Visualization
 
 Binary Lifting is a powerful technique used in tree algorithms to efficiently compute answers to queries related to the ancestors of a node. It is particularly useful in solving problems like finding the Lowest Common Ancestor (LCA) of two nodes, or determining the k-th ancestor of a node in logarithmic time.
@@ -160,5 +159,6 @@ int main() {
 ---
 
 ### **Conclusion**
-Binary Lifting is a versatile and efficient technique for tree-based problems. By precomputing ancestors at powers of 2, it enables logarithmic-time queries for tasks like finding k-th ancestors or LCAs. With its simplicity and power, it is a must-know tool for competitive programming and algorithmic problem-solving.---
-</assistant>
+Binary Lifting is a versatile and efficient technique for tree-based problems. By precomputing ancestors at powers of 2, it enables logarithmic-time queries for tasks like finding k-th ancestors or LCAs. With its simplicity and power, it is a must-know tool for competitive programming and algorithmic problem-solving.
+
+-----
