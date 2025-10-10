@@ -149,14 +149,14 @@ int main() {
 
 #### Output:
 ```
-8 11 7 10 10
+6 9 5 8 8
 ```
 
 #### Explanation:
-- For node 1: Sum of distances = \(8\).
-- For node 2: Re-root at 2, adjust distances → \(11\).
-- For node 3: Re-root at 3, adjust distances → \(7\).
-- For nodes 4 and 5: Re-root at 4 and 5, adjust distances → \(10\).
+- For node 1: Sum of distances = \(6\).
+- For node 2: Re-root at 2, adjust distances → \(9\).
+- For node 3: Re-root at 3, adjust distances → \(5\).
+- For nodes 4 and 5: Re-root at 4 and 5, adjust distances → \(8\).
 
 ---
 
